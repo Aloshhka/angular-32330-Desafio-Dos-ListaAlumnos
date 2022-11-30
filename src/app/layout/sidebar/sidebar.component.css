@@ -1,0 +1,8 @@
+aside{
+    height: 100vh;
+    background-color: rgb(153, 145, 160);
+    width: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
